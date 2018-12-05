@@ -1,2 +1,11 @@
-Esta es la página de contacto.
+﻿Esta es la página de contacto.
 
+
+
+
+
+
+
+
+
+Este es el pie de contacto.
