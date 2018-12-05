@@ -1,8 +1,7 @@
 Esta es la página de contacto.
 <h1>Esta es la linea de título</h1>
 
-Esta es la descripción de contacto.
-
+Esto mejor así porque es como quiere el cliente
 
 
 
