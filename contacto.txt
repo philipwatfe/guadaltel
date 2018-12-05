@@ -1,7 +1,14 @@
 ﻿Esta es la página de contacto.
+
 <h1>Esta es la linea de título</h1>
 
 Esto mejor así porque es como quiere el cliente
+
+<h1>Esta es la linea de título secundaria</h1>
+
+alert('Hola');
+
+
 
 
 
@@ -14,4 +21,10 @@ Esto mejor así porque es como quiere el cliente
 Este es el pie de contacto. Cambios en pie contacto,
 
 
+
 Cambios en pie contacto, conflicto.
+
+</p>
+
+nueva linea añadida
+
