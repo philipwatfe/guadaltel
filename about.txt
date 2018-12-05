@@ -1,6 +1,17 @@
+
+<h>About</h>
+
 fichero about prueba
+
 
 
 
 DLR - about nuevo sin hacer pull
 para ver que pasa ahora y marear a MJM
+
+
+About DLR: Guadaltel
+DLR Productions
+
+Este es el pie de pagina
+
