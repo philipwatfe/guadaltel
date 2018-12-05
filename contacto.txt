@@ -1,6 +1,8 @@
 ﻿Esta es la página de contacto.
 <h1>Esta es la linea de título secundaria</h1>
 
+alert('Hola');
+
 
 Aquí otra cosa
 
