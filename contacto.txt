@@ -1,2 +1,15 @@
 Esta es la página de contacto.
+<h1>Esta es la linea de título</h1>
 
+Esta es la descripción de contacto.
+
+
+
+
+
+
+
+
+
+
+Este es el pie de contacto.
