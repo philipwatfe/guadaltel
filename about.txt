@@ -5,3 +5,5 @@ fichero about prueba
 
 About DLR: Guadaltel
 DLR Productions
+
+Este es el pie de pagina
