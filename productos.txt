@@ -1,1 +1,6 @@
-DESCRIPCIÓN: Esto es una descripción del fichero productos.txt
+<h1>Titulo Productos</h1>
+<p>Pera</p>
+<p>Manzana</p>
+<p>Miel</p>
+
+DESCRIPCIÃ“N: Esto es una descripciÃ³n del fichero productos.txt
