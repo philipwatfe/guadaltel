@@ -2,3 +2,5 @@
 <p>Pera</p>
 <p>Manzana</p>
 <p>Miel</p>
+
+DESCRIPCIÓN: Esto es una descripción del fichero productos.txt
