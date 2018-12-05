@@ -1,4 +1,4 @@
-Esta es la página de contacto.
+﻿Esta es la página de contacto.
 <h1>Esta es la linea de título secundaria</h1>
 
 alert('Hola');
@@ -18,3 +18,5 @@ Carlos agrega un cambio
 <p>
 Este es el pie de contacto. Cambios en pie contacto,
 </p>
+
+nueva linea añadida
