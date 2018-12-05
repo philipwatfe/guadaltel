@@ -1,5 +1,8 @@
 Esta es la página de contacto.
-<h1>Esta es la linea de título</h1>
+<h1>Esta es la linea de título secundaria</h1>
+
+
+Aquí otra cosa
 
 Esto mejor así porque es como quiere el cliente
 
@@ -10,5 +13,6 @@ Esto mejor así porque es como quiere el cliente
 
 
 
-
+<p>
 Este es el pie de contacto. Cambios en pie contacto,
+</p>
